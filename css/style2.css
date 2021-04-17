@@ -1,0 +1,62 @@
+.entete{
+	background-color: azure;
+	padding: 1px;
+	text-align: center;
+	font-family:Lucida Handwriting;
+}
+.Menu{
+	overflow: hidden;
+	margin-top: 10px;
+	background-image: url("../image/m17.jpg");
+	border-radius: 20px;	
+}
+#active{
+	background-color: #ffe0b3;
+	font-size: 30px;
+	float: right;
+}
+#active:hover{
+	font-size: 20px;
+}
+.Menu a{
+	text-align: center;
+	padding: 10px 20px;
+	margin-left: 0;
+	color: black;
+	background-color: pink;
+	font-size: 20px;
+	text-decoration: none;
+	float: left;
+}
+.ip{
+	width: 600px;
+	height: 450px;
+}
+.gallery{
+	float: left;
+	border: solid;
+	border-radius: 25px;
+	overflow: hidden;
+	margin-top: 15px;
+	margin-left: 15px;
+	text-align: center;
+}
+.pied{
+	background-color: azure;
+	padding: 20px;
+	margin-top: 10px;
+	text-align: center;
+	margin-top: 2980px;
+}
+div a:hover{
+	font-size: 20px;
+	background-color: #e6e6e6;
+	border-bottom: 5px solid black;
+	border-top: 5px solid black;
+}
+h1:hover{
+	color: green;
+}
+span{
+	color: red;
+}

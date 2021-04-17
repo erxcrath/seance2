@@ -1,0 +1,182 @@
+.entete{
+	background-color: azure;
+	padding: 1px;
+	text-align: center;
+	font-family:Lucida Handwriting;
+}
+.Menu{
+	overflow: hidden;
+	margin-top: 10px;
+	background-image: url("../image/m17.jpg");
+	border-radius: 20px;
+}
+div a{
+	text-align: center;
+	float: left;
+	padding: 10px 20px;
+	margin-left: 0;
+	color: black;
+	background-color: pink;
+	font-size: 20px;
+	text-decoration: none;
+	}
+div a:hover{
+	font-size: 20px;
+	background-color: #e6e6e6;
+	border-bottom: 5px solid black;
+	border-top: 5px solid black;
+}
+.active{
+	background-color: #ffe0b3;
+	font-size: 30px;
+	float: right;
+}
+.active:hover{
+	background-color: #ffe0b3;
+}
+.content{
+	margin-top: 10px;
+	background-color: #ffe0b3;
+	width: 100%;
+	height: 700px;
+	overflow: hidden;
+}
+.left{
+	background-image:url("../image/m16.jpg");
+	background-size: 100%;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 70%;
+	height: 97%;
+	float: left;
+	border-radius: 25px;
+	overflow: hidden;
+}
+.right{
+	background-color: #ffe0b3;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 28%;
+	height: 97%;
+	float: right;
+	overflow: hidden;
+}
+.card2{
+	width: 98.8%;
+	height: 48%;
+	border-radius: 25px;
+	overflow: hidden;
+	background-color: #ffcccc;
+	overflow: hidden;
+}
+.card2:hover{
+	font-size: 25px;
+	height: 100%;
+	background-color: azure;
+}
+.card3{
+	width: 98.8%;
+	height: 48%;
+	border-radius: 25px;
+	overflow: hidden;
+	margin-top: 15px;
+	background-color: #ffcccc;	
+}
+.card3:hover{
+	background-color: azure;
+}
+.pied{
+	background-color: azure;
+	padding: 20px;
+	margin-top: 10px;
+	text-align: center;
+}
+.left input{
+	margin-top: 23%;
+	margin-left: 20%;
+	float: left;
+	font-size: 40px;
+}
+button{
+	float: left;
+	font-size: 40px;
+	margin-top: 23%;
+	background-color: orange;
+}
+p{
+	padding: 5px 30px;
+	text-align: justify;
+}
+h2{
+	text-align: center;
+	padding: 5px 30px;
+	color: red;
+}
+
+ul{
+	padding: 0 20px;
+	margin-left: 80px;
+}
+h1:hover{
+	color: green;
+}
+span{
+	color: red;
+}
+button:hover{
+	background-color: red;
+	color: pink;
+}
+div .card3 a{
+	font-family: cursive;
+
+}
+div .card3 a:hover{
+	text-transform: uppercase;
+	}	
+/*contact*/
+.h2c{
+	padding: 40px;
+	color: black;
+	font-size: 40px;
+}
+.pc{
+	color: pink;
+	font-size: 30px;
+	text-align: center;
+}
+.fc{
+	font-size: 20px;
+
+}
+.fc input{
+	font-size: 20px;
+}
+.fc label{
+}
+.leftc{
+	margin-top: 4%;
+	float: left;
+	margin-left: 10%;
+}
+.rightc{
+	margin-top: 4%;
+	float: right;
+	margin-right: 10%;
+	background-color: #ffe0b3;
+}
+.contentc{
+	height: 300px;
+	overflow: hidden;
+	border: solid 2px darkred;
+	margin-left: 600px;
+	margin-right: 600px;
+	border-radius: 25px;
+	background-color: #ffe0b3;
+}
+.fc{
+	border: solid 2px darkred;	
+	padding: 20px;
+	border-radius: 25px;
+	background-color: azure;
+}
